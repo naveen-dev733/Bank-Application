@@ -41,5 +41,3 @@ The Bank & Account Management System provides functionality to add bank details,
 
 ### Database
 - MySQL
-
-## Project Structure
